@@ -1,0 +1,16 @@
+.containerStyle{
+    padding: 25px;
+}
+.boxPlacar{
+    border: 1px solid;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+.score {
+    border: 1px solid;
+    height: 150px;
+    padding-top: 22px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
